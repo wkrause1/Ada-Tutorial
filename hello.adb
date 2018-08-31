@@ -1,9 +1,9 @@
-with Ada.Text_IO; use ADA.Text_IO;
+with Ada.Text_IO; use Ada.Text_IO;
 
 procedure hello is
     begin
         new_line;
         put_line("Hi!");
         new_line(2);
-        put("Welcome to ITEC 320!");
-    end
+        put_line("Welcome to ");
+    end hello
