@@ -6,4 +6,4 @@ procedure hello is
         put_line("Hi!");
         new_line(2);
         put_line("Welcome to ");
-    end hello
+    end hello;
